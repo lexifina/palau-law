@@ -1,0 +1,2 @@
+# Article IV — Fundamental Rights, Section 1
+The government shall take no action to deny or impair the freedom of conscience or of philosophical or religious belief of any person nor take any action to compel, prohibit or hinder the exercise of religion. The government shall not recognize or establish a national religion, but may provide assistance to private or parochial schools on a fair and equitable basis for nonreligious purposes.

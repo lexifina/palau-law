@@ -1,0 +1,2 @@
+# Article VII — Suffrage
+A citizen of Palau eighteen (18) years of age or older may vote in national and state elections. The Olbiil Era Kelulau shall prescribe a minimum period of residence and provide for voter registration for national elections. Each state shall prescribe a minimum period of residence and provide for voter registration for state elections. A citizen who is in prison, serving a sentence for a felony, or mentally incompetent as determined by a court may not vote. Voting shall be by secret ballot.

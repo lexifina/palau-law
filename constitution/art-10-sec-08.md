@@ -1,0 +1,2 @@
+# Article X — Judiciary, Section 8
+No person shall be eligible to hold judicial office in the Supreme Court or National Court unless he has been admitted to practice law before the highest court of a state or country in which he is admitted to practice for at least five (5) years preceding his appointment. Any justice of the Supreme Court or judge of the National Court who becomes a candidate for an elective office shall, upon filing for such office, forfeit his judicial office.

@@ -1,0 +1,2 @@
+# Article XV — Transition, Section 9
+Individuals, corporations, or other entities qualified to do business in Palau on the effective date of this Constitution shall maintain their legal existence and shall be allowed to continue to do business unless otherwise provided by law. Business and professional licenses in Palau District on the effective date of this Constitution shall continue in effect unless otherwise prescribed by law or until they expire by their own terms.

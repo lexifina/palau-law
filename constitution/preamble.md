@@ -1,0 +1,2 @@
+# Preamble
+In exercising our inherent sovereignty, We, the people of Palau proclaim and reaffirm our immemorial right to be supreme in these islands of Palau, our homeland. We renew our dedication to preserve and enhance our traditional heritage, our national identity and our respect for peace, freedom and justice for all mankind. In establishing this Constitution of the sovereign Republic of Palau, We venture into the future with full reliance on our own efforts and the divine guidance of Almighty God.

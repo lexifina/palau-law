@@ -1,0 +1,2 @@
+# Article XIII — General Provisions, Section 12
+The national government shall have exclusive power to regulate importation of firearms and ammunition. No persons except armed forces personnel lawfully in Palau and law enforcement officers acting in an official capacity shall have the right to possess firearms or ammunition unless authorized by legislation which is approved in a nationwide referendum by a majority of the votes cast on the issue.

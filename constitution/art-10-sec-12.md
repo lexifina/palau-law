@@ -1,0 +1,2 @@
+# Article X — Judiciary, Section 12
+The Chief Justice of the Supreme Court shall be the administrative head of the unified judicial system. He may assign judges from one geographical department or functional division of a court to another department or division of that court and he may assign judges for temporary service in another court. The Chief Justice shall appoint with the approval of the Associate Justices, an administrative director to supervise the administrative operation of the judicial system.

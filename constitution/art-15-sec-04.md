@@ -1,0 +1,2 @@
+# Article XV — Transition, Section 4
+On or after the effective date of this Constitution, but not later than the termination of the Trusteeship Agreement, the national government of Palau shall succeed to any right or interest acquired by the Administering Authority, the Trust Territory of the Pacific Islands, and the government of Palau District, and may assume such obligations and liabilities incurred by the Administering Authority, the Trust Territory of the Pacific Islands, or the government of Palau District as may be prescribed by law.

@@ -1,0 +1,2 @@
+# Article IX — Olbiil Era Kelulau, Section 12
+Each house of the Olbiil Era Kelulau shall promulgate its own rules and procedures not inconsistent with this Constitution and the laws of Palau, and may compel the attendance of absent members. A majority of the members of each house shall constitute a quorum to do business. Each house, with the approval of a majority of its members, may compel the attendance and testimony of witnesses and the production of books and papers before that house or its committees.

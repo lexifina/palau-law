@@ -1,0 +1,2 @@
+# Article IX — Olbiil Era Kelulau, Section 14
+The Olbiil Era Kelulau may enact no law except by bill. Each house of the Olbiil Era Kelulau shall establish a procedure for the enactment of bills into law. No bill may become a law unless it has been adopted by a majority of the members of each house present on three (3) separate readings, each reading to be held on a separate day. No bill may become a law unless it contains the following enacting clause: THE PEOPLE OF PALAU REPRESENTED IN THE OLBIIL ERA KELULAU DO ENACT AS FOLLOWS:.

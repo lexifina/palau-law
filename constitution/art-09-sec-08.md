@@ -1,0 +1,2 @@
+# Article IX — Olbiil Era Kelulau, Section 8
+The compensation of the members of the Olbiil Era Kelulau shall be determined by law. No increase in compensation shall apply to the members of the Olbiil Era Kelulau during the term of enactment, nor may an increase in compensation be enacted in the period between the date of a regular general election and the date a new Olbiil Era Kelulau takes office.

@@ -1,0 +1,2 @@
+# Article X — Judiciary, Section 5
+The judicial power shall extend to all matters in law and equity. The trial division of the Supreme Court shall have original and exclusive jurisdiction over all matters affecting Ambassadors, other Public Ministers and Consuls, admiralty and maritime cases, and those matters in which the national government or a state government is a party. In all other cases, the National Court shall have original and concurrent jurisdiction with the trial division of the Supreme Court.

@@ -1,0 +1,2 @@
+# Article X — Judiciary, Section 2
+The Supreme Court is a Court of Record consisting of an appellate division and a trial division. The Supreme Court shall be composed of a Chief Justice and not less than three (3) nor more than six (6) Associate Justices, all of whom shall be members of both divisions. All appeals shall be heard by at least three justices. Matters before the trial division may be heard by one justice. No justice may hear or decide an appeal of a matter heard by him in the trial division.

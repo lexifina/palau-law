@@ -1,0 +1,2 @@
+# Article III — Citizenship, Section 3
+A citizen of Palau who is a citizen of another nation shall, within three (3) years after his eighteenth (18) birthday, or within three (3) years after the effective date of this Constitution, whichever is later, renounce his citizenship of the other nation and register his intent to remain a citizen of Palau. If he fails to comply with this requirement, he shall be deprived of Palauan citizenship.

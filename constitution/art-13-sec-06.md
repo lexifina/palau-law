@@ -1,0 +1,2 @@
+# Article XIII — General Provisions, Section 6
+Harmful substances such as nuclear, chemical, gas or biological weapons intended for use in warfare, nuclear power plants, and waste materials therefrom, shall not be used, tested, stored, or disposed of within the territorial jurisdiction of Palau without the express approval of not less than three-fourths (3/4) of the votes cast in a referendum submitted on this specific question.

@@ -1,0 +1,4 @@
+# Article XII — Finance, Section 6
+(a) Each state shall be entitled to revenues derived from the exploration and exploitation of all living and non-living resources, except highly migratory fish, and fines collected for violation of any law within the marine area extending from the land to twelve (12) nautical miles seaward from the traditional baselines.
+(b) The national government shall be entitled to all revenues derived from the exploration and exploitation of all living and non-living resources, except highly migratory fish, and fines collected for violation of any law beyond the areas owned by the state.
+(c) All revenues derived from licensing foreign vessels to fish for highly migratory fish within the jurisdictional waters of Palau shall be divided equitably between the national government and all the state governments as determined by the Olbiil Era Kelulau.

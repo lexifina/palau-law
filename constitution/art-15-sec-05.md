@@ -1,0 +1,2 @@
+# Article XV — Transition, Section 5
+Nothing in Section 3 or 4 of this Article shall be deemed to constitute a waiver or release of the Administering Authority, the Trust Territory of the Pacific Islands, or any other government entity or person from any continuing or unsatisfied obligation or duty owing to the citizens of Palau, or the national government or state governments of Palau. The national government and state governments as well as the citizens of Palau shall retain all rights, interests, and causes of action not specifically and expressly released or waived.

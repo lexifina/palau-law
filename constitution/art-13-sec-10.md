@@ -1,0 +1,2 @@
+# Article XIII — General Provisions, Section 10
+The national government shall, within five (5) years of the effective date of this Constitution, provide for the return to the original owners or their heirs of any land which became part of the public lands as a result of the acquisition by previous occupying powers or their nationals through force, coercion, fraud, or without just compensation or adequate consideration.

@@ -1,0 +1,2 @@
+# Article IX — Olbiil Era Kelulau, Section 9
+No member of either house of the Olbiil Era Kelulau shall be held to answer in any other place for any speech or debate in the Olbiil Era Kelulau. The members of the Olbiil Era Kelulau shall be privileged, in all cases except treason, felony, or breach of peace, from arrest during their attendance at the sessions of the Olbiil Era Kelulau and in going to and from the sessions.

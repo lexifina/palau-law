@@ -1,0 +1,2 @@
+# Article VI — Responsibilities of the National Government
+The national government shall take positive action to attain these national objectives and implement these national policies: conservation of a beautiful, healthful and resourceful natural environment; promotion of the national economy; protection of the safety and security of persons and property; promotion of the health and social welfare of the citizens through the provision of free or subsidized health care; and provision of public education for citizens which shall be free and compulsory as prescribed by law.

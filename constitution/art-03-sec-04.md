@@ -1,0 +1,2 @@
+# Article III — Citizenship, Section 4
+A person born of parents, one or both of whom are of recognized Palauan ancestry, shall have the right to enter and reside in Palau and to enjoy other rights and privileges as provided by law, which shall include the right to petition to become a naturalized citizen of Palau; provided, that prior to becoming a naturalized citizen, a person must renounce his citizenship of another nation. There shall be no citizenship by naturalization except pursuant to this section.

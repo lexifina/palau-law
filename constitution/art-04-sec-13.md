@@ -1,0 +1,2 @@
+# Article IV — Fundamental Rights, Section 13
+The government shall provide for marital and related parental rights, privileges and responsibilities on the basis of equality between men and women, mutual consent and cooperation. Parents or individuals acting in the capacity of parents shall be legally responsible for the support and for the unlawful conduct of their minor children as prescribed by law.

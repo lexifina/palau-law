@@ -1,0 +1,2 @@
+# Article VIII — Executive, Section 6
+A Council of Chiefs composed of a traditional chief from each of the states shall advise the President on matters concerning traditional laws, customs and their relationship to this Constitution and the laws of Palau. No person shall be a member of the Council of Chiefs unless he has been appointed and accepted as a chief in a traditional manner, and is recognized as such by the traditional council of chiefs of his state. No chief shall serve in the Council of Chiefs while serving as a member of the Olbiil Era Kelulau or the cabinet.

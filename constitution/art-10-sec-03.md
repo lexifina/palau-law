@@ -1,0 +1,2 @@
+# Article X — Judiciary, Section 3
+If the Chief Justice is unable to perform his duties, he shall appoint an Associate Justice to act in his place. If the office of Chief Justice becomes vacant and the Chief Justice has failed to appoint an Acting Chief Justice to act in his place, the President shall appoint an Associate Justice to act as Chief Justice until the vacancy is filled or the Chief Justice resumes his duties.
