@@ -1,0 +1,3 @@
+# Second Amendment
+Article III, Section 4 of the Constitution is hereby amended to read as follows:
+A person born of parents, one or both of whom are of recognized Palauan ancestry, is a citizen of Palau by birth. United States citizenship shall not affect a person's Palauan citizenship, nor shall a person of recognized Palauan ancestry be required to renounce United States citizenship to become a naturalized citizen of Palau. Persons of recognized Palauan ancestry who are citizens of other foreign nations may retain their Palauan citizenship or become naturalized Palauan citizens as provided by law. Palauan citizens may renounce their Palauan citizenship. Renouncements made prior to the effective date of this amendment are not affected by this amendment.
