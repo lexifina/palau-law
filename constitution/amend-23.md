@@ -1,0 +1,3 @@
+# Twenty-Third Amendment
+Article VI of the Constitution is hereby amended to read as follows:
+The national government shall take positive action to attain these national objectives and implement these national policies: conservation of a beautiful, healthful and resourceful natural environment; promotion of the national economy; protection of the safety and security of persons and property; promotion of the health and social welfare of the citizens through the provision of free or subsidized health care; and provision of public education for citizens which shall be free from grades one (1) to twelve (12) and compulsory as prescribed by law.
