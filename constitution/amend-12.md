@@ -1,0 +1,3 @@
+# Twelfth Amendment
+Article IX, Section 11 of the Constitution is hereby amended to include a new paragraph to read as follows:
+The terms of the incumbent members of the Olbiil Era Kelulau shall end at the time of the installation of the members elect which shall take place on the third Thursday of January after the general election. Each house of the Olbiil Era Kelulau shall convene its meeting on the fourth Tuesday in January following the regular general election and may meet regularly for four (4) years. Either house may be convened at any time by the president officer, or at the written request of the majority of the members, or by the President.
