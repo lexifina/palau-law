@@ -1,0 +1,3 @@
+# Eleventh Amendment
+Article IX, Section 8 of the Constitution is hereby amended to read as follows:
+The compensation of the members of the Eighth Olbiil Era Kelulau shall be a salary, the initial amount of which shall be determined by law, but shall not exceed the amount of compensation received by the members of the Seventh Olbiil Era Kelulau. No increase in compensation shall apply to the members of the Olbiil Era Kelulau during the term of enactment, nor may an increase in compensation be enacted in the period between the date of a regular general election and the date a new Olbiil Era Kelulau takes office.
