@@ -104,7 +104,7 @@ def rppls(note: str) -> set[str]:
     m = re.search(r'Sources?\s(.*?)(?:\s(?:Notes|Cross-references?|Supreme Court Cases|Commission Comments?|Case Notes|Amended)\s|$)', note)
     if m:
         src = m.group(1)
-    return {f'rppl-{int(a)}-{int(b)}' for a, b in RPPL.findall(src)}
+    return {f'rppl-{int(a):02d}-{int(b):03d}' for a, b in RPPL.findall(src)}
 
 
 def load(file_id: str) -> tuple[bytes, str]:
@@ -136,7 +136,7 @@ def title_act(t: dict, laws: dict, decisions: list[str]) -> dict:
                 if new:
                     credits[k] = sorted(new, key=lambda s: tuple(int(x) for x in s.split('-')[1:]))
                     for lk in credits[k]:
-                        a, b = lk.split('-')[1:]
+                        a, b = (int(x) for x in lk.split('-')[1:])
                         laws.setdefault(lk, {'label': f'RPPL {a}-{b}', 'title': f'Republic of Palau Public Law No. {a}-{b}',
                                              'kind': 'law', 'enacted': None, 'published': None, 'url': None,
                                              'temporary_until': None, 'restores': None, 'note': None})
@@ -162,6 +162,8 @@ def acts(laws: dict, decisions: list[str]) -> list[dict]:
                      'names in the later edition and not in the earlier; if the note names none, the change is the '
                      'publisher\'s and committed as unexplained. RPPL enactment dates are not in the source, so laws '
                      'carry no enacted date.')
+    decisions.append('PNC titles: RPPL keys are zero-padded (rppl-09-021 for RPPL 9-21) so that, with no enactment dates '
+                     'in the source, the builder orders laws named together by their number (Olbiil Era Kelulau, then law).')
     decisions.append('PNC titles: Code Commission annotations (Sources, Notes, Cross-references, Supreme Court Cases, '
                      'Commission Comments) and the chapter tables of contents are not part of the section files.')
     return out

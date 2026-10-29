@@ -63,7 +63,7 @@ def lines(data: bytes, layout: str) -> list[dict]:
                     if y < 45 or y > h - 54:
                         continue
                 else:
-                    if y > h - 92 or (y < 90 and size >= 13.5):
+                    if y > h - 92 or (y < 125 and size >= 13.5):
                         continue
                 if LEADER.search(text):
                     continue
