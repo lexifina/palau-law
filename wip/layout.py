@@ -31,6 +31,16 @@ def norm(s: str) -> str:
 def lines(data: bytes, layout: str) -> list[dict]:
     doc = fitz.open(stream=data, filetype='pdf')
     out = []
+    # the regular text font: the commonest font among 11-13 pt spans (typeset PDFs use CID fonts with no bold flag)
+    from collections import Counter
+    fc = Counter()
+    for page in doc:
+        for b in page.get_text('dict')['blocks']:
+            for ln in b.get('lines', []):
+                for s in ln['spans']:
+                    if 11 <= s['size'] <= 13 and s['text'].strip():
+                        fc[s['font']] += len(s['text'])
+    regular = fc.most_common(1)[0][0] if fc else ''
     for pn, page in enumerate(doc):
         h = page.rect.height
         for b in page.get_text('dict')['blocks']:
@@ -41,7 +51,11 @@ def lines(data: bytes, layout: str) -> list[dict]:
                 y = ln['bbox'][1]
                 size = max(s['size'] for s in spans)
                 main = max(spans, key=lambda s: len(s['text'].strip()))
-                bold = bool(main['flags'] & 16) or 'Bold' in main['font'] or main['font'].endswith('F1')
+                if layout == 'modern':
+                    bold = bool(main['flags'] & 16) or 'Bold' in main['font']
+                else:
+                    bold = 'Bold' in main['font'] or (main['size'] >= 11 and main['font'] != regular
+                                                      and 'Italic' not in main['font'])
                 text = norm(''.join(s['text'] for s in ln['spans']))
                 if not text:
                     continue
@@ -86,3 +100,24 @@ def paragraphs(body: list[dict], gap: float = 15.5) -> list[str]:
                 paras[-1] = paras[-1] + ' ' + l['text']
         prev = l
     return [WS.sub(' ', p).strip() for p in paras if p.strip()]
+
+
+ENUM_SPLIT = re.compile(r'(?:(?<=[.;:])|(?<=[.;:]")|(?<=; or)|(?<=; and)|(?<=, or)|(?<=, and)|(?<=\.\]))\s+'
+                        r'(?=\((?:[a-z]{1,2}|[ivxl]{1,5}|\d{1,3}|[A-Z]{1,2})\)\s)')
+
+
+def flow(body: list[dict]) -> list[str]:
+    """Layout-independent paragraphs: join every line of a section, then start a new paragraph only where an
+    enumerator ("(a)", "(1)", "(A)", "(iv)") follows the end of a clause. Typeset and Word-exported editions space
+    their paragraphs differently, so line gaps are not used."""
+    s = ''
+    for l in body:
+        t = l['text']
+        if not s:
+            s = t
+        elif re.search(r'[A-Za-z]-$', s) and t[:1].islower():
+            s += t
+        else:
+            s += ' ' + t
+    s = WS.sub(' ', s).strip()
+    return [p.strip() for p in ENUM_SPLIT.split(s) if p.strip()] if s else []
