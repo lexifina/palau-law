@@ -6,7 +6,10 @@
   "lang": "en",
   "tz": "Pacific/Palau",
   "future_branch": "future",
-  "publisher": {"name": "Palau Code Commission (Publication And Law Access Unit)", "email": "code-commission@palaulaw.gov.pw.invalid"},
+  "publisher": {
+   "name": "Palau Code Commission (Publication And Law Access Unit)",
+   "email": "code-commission@palaulaw.gov.pw.invalid"
+  },
   "default_in_force_rule": {
    "text": "ROP Const. art. IX, § 15: \"A bill adopted by each house of the Olbiil Era Kelulau shall be presented to the President and shall become law when signed by the President\"; constitutional amendments take effect when approved (art. XIV, § 1) or, under a later amendment, on the date the election results are certified unless the amendment prescribes a date.",
    "source": "https://drive.google.com/file/d/1hPQSUW9yNyZhFzwSgdRUQTeVRhkE1W-T/view"
@@ -19,32 +22,67 @@
   "first_amendment_date": "1992-11-04"
  },
  "files": [
-  {"name": "Constitution (English Version), current as of 05/13/2026", "id": "1hPQSUW9yNyZhFzwSgdRUQTeVRhkE1W-T", "drive": true},
-  {"name": "Disclaimer (Judiciary / Code Commission / PALAU Law Search CD)", "id": "1SiOA_6eAw9ZrDbhtsKGadKWL91I0W7C4", "drive": true},
-  {"name": "Palau Law Website Link", "id": "1_T78E6zc9mDkCCinXGEpuwBLcHSRTtSd", "drive": true},
-  {"name": "PNC Front Matter (copyright, editors)", "id": "1F60HJLVxltB7yMxVYLFEJERVwmDwoa9b", "drive": true}
+  {
+   "name": "Constitution (English Version), current as of 05/13/2026",
+   "id": "1hPQSUW9yNyZhFzwSgdRUQTeVRhkE1W-T",
+   "drive": true
+  },
+  {
+   "name": "Disclaimer (Judiciary / Code Commission / PALAU Law Search CD)",
+   "id": "1SiOA_6eAw9ZrDbhtsKGadKWL91I0W7C4",
+   "drive": true
+  },
+  {
+   "name": "Palau Law Website Link",
+   "id": "1_T78E6zc9mDkCCinXGEpuwBLcHSRTtSd",
+   "drive": true
+  },
+  {
+   "name": "PNC Front Matter (copyright, editors)",
+   "id": "1F60HJLVxltB7yMxVYLFEJERVwmDwoa9b",
+   "drive": true
+  }
  ],
  "sources": [
-  {"name": "Palau Code Commission / Publication And Law Access Unit: public Google Drive (\"Palau Law\"), folder 1o9b7uIAaNl7qj_yfILpbgstBp6nW90Ox",
-   "url": "https://drive.google.com/drive/folders/1o9b7uIAaNl7qj_yfILpbgstBp6nW90Ox", "retrieved": "2026-10-29", "count_requests": true,
+  {
+   "name": "Palau Code Commission / Publication And Law Access Unit: public Google Drive (\"Palau Law\"), folder 1o9b7uIAaNl7qj_yfILpbgstBp6nW90Ox",
+   "url": "https://drive.google.com/drive/folders/1o9b7uIAaNl7qj_yfILpbgstBp6nW90Ox",
+   "retrieved": "2026-10-29",
+   "count_requests": true,
    "licence": "Copyright Republic of Palau, Publication And Law Access Unit; published by the Code Commission for free public access (palaulaw.gov.pw About page). Informational, not legal advice.",
-   "notes": "Current PNC titles (current as of 09/30/2026), the Constitution (current as of 05/13/2026) and Archives/Former Supplements (1st Edition 9/30/94; 1st-2nd Supplements; 15th-18th Supplements). PDFs with a text layer. Its 'Disclaimer' file is the Judiciary Branch website disclaimer with 1 PNC § 1002 (Code Commission duty to publish) and the PALAU Law Search CD disclaimer; its 'Palau Law Website Link' file points to palaulaw.gov.pw."},
-  {"name": "Palau Code Commission: Palau Legal Information Access website",
-   "url": "https://palaulaw.gov.pw/", "retrieved": "2026-10-29", "requests": 2,
+   "notes": "Current PNC titles (current as of 09/30/2026), the Constitution (current as of 05/13/2026) and Archives/Former Supplements (1st Edition 9/30/94; 1st-2nd Supplements; 15th-18th Supplements). PDFs with a text layer. Its 'Disclaimer' file is the Judiciary Branch website disclaimer with 1 PNC § 1002 (Code Commission duty to publish) and the PALAU Law Search CD disclaimer; its 'Palau Law Website Link' file points to palaulaw.gov.pw."
+  },
+  {
+   "name": "Palau Code Commission: Palau Legal Information Access website",
+   "url": "https://palaulaw.gov.pw/",
+   "retrieved": "2026-10-29",
+   "requests": 2,
    "licence": "About page: a project of the Republic of Palau Code Commission \"to provide free, open, and reliable access to the laws of the Republic of Palau\"; \"the official digital repository for the legal corpus of Palau\".",
-   "notes": "JavaScript application (Zite); only the page and its script were read, to confirm the publisher."},
-  {"name": "Republic of Palau National Government (palaugov.pw): Publication And Law Access Unit transition report (2020)",
-   "url": "https://www.palaugov.pw/wp-content/uploads/2020/12/Publication-and-Law-Access-Unit.pdf", "retrieved": "2026-10-29", "requests": 1,
+   "notes": "JavaScript application (Zite); only the page and its script were read, to confirm the publisher."
+  },
+  {
+   "name": "Republic of Palau National Government (palaugov.pw): Publication And Law Access Unit transition report (2020)",
+   "url": "https://www.palaugov.pw/wp-content/uploads/2020/12/Publication-and-Law-Access-Unit.pdf",
+   "retrieved": "2026-10-29",
+   "requests": 1,
    "licence": "Government publication",
-   "notes": "States that the PALAU Office, under the Code Commission (EO 413), keeps the laws of Palau on Google Drive and publishes the PNCA supplements there; used for provenance only."},
-  {"name": "Internet Archive Wayback Machine CDX (probe only)",
-   "url": "https://web.archive.org/cdx/search/cdx", "retrieved": "2026-10-29", "requests": 0,
+   "notes": "States that the PALAU Office, under the Code Commission (EO 413), keeps the laws of Palau on Google Drive and publishes the PNCA supplements there; used for provenance only."
+  },
+  {
+   "name": "Internet Archive Wayback Machine CDX (probe only)",
+   "url": "https://web.archive.org/cdx/search/cdx",
+   "retrieved": "2026-10-29",
+   "requests": 0,
    "licence": "Internet Archive terms of use",
-   "notes": "Probed palausupremecourt.net, palaujudiciary.org, palauoek.org, palaugov.pw and others; no PNC title or Constitution text from them is used. Common Crawl's index did not answer from this machine."}
+   "notes": "Probed palausupremecourt.net, palaujudiciary.org, palauoek.org, palaugov.pw and others; no PNC title or Constitution text from them is used. Common Crawl's index did not answer from this machine."
+  }
  ],
  "decisions": [
   "Source choice: PacLII and AustLII were not used (AustLII terms forbid scraping and dataset use). Every text comes from the Palau Code Commission's own publication channel.",
-  "Language: the Constitution is official in English and Palauan; the English version is built (the Code Commission publishes both)."
+  "Language: the Constitution is official in English and Palauan; the English version is built (the Code Commission publishes both).",
+  "17 PNC § 4727 (chemical weapons schedule): the 15th Supplement's text layer renders the ≤ sign as '#', the 16th as nothing; the difference is committed as unexplained on 2021-05-26 and is a typesetting artefact, not a change in the law.",
+  "Word check (verify.py): every paragraph of every PNC edition and of the current Constitution was found in an independent pdftotext extraction of the same PDF, except 3 explained by layout (Constitution art. XV § 13 table; 17 PNC § 3348 and § 513 words broken across a page foot); results in verification.json.",
+  "Paragraphs in PNC sections are split only where an enumerator such as (a), (1), (A) or (iv) follows the end of a clause, because the typeset and the Word-exported editions space paragraphs differently; unnumbered paragraphs inside one section are joined on one line."
  ],
  "ai_use": [
   "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch.py, layout.py and parse.py and found the sources. No model wrote, summarised or corrected any legal text; every provision is extracted by code from the publisher's PDF text layer."

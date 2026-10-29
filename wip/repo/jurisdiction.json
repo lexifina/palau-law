@@ -1,0 +1,11 @@
+{
+  "path": "pw",
+  "code": "PW",
+  "name": "Palau",
+  "level": "country",
+  "repo": "https://github.com/lexifina/palau-law",
+  "build": "built: Constitution (5 versions, 1981-01-01 to 2020-11-17), PNC Title 17 Penal Code and Title 1 General Provisions (6 editions each, 1994-09-30 to 2026-09-30); source: Palau Code Commission (palaulaw.gov.pw and its public Google Drive)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 1
+}
