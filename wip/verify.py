@@ -34,16 +34,43 @@ def pdftext(file_id: str) -> str:
     return norm(t)
 
 
+def found(n: str, hay: str, hay_ns: str, pieces: int = 8) -> bool:
+    """n occurs in hay, or splits into at most `pieces` consecutive runs of words that each occur (a paragraph
+    that crosses a page break has the running head and footer of the page inside it in pdftotext's output)."""
+    if n in hay or re.sub(r'[ -]', '', n) in hay_ns:
+        return True
+    if pieces <= 1:
+        return False
+    w = n.split(' ')
+    lo, hi = 1, len(w) - 1  # longest prefix of words that occurs
+    best = 0
+    while lo <= hi:
+        mid = (lo + hi) // 2
+        if re.sub(r'[ -]', '', ' '.join(w[:mid])) in hay_ns:
+            best, lo = mid, mid + 1
+        else:
+            hi = mid - 1
+    if best < 3:
+        return False
+    return found(' '.join(w[best:]), hay, hay_ns, pieces - 1)
+
+
 def main() -> None:
     corpus = json.loads((HERE / 'corpus.json').read_text(encoding='utf-8'))
+    for act in corpus['acts']:
+        if act['slug'] == 'constitution':
+            act['versions'] = [act['versions'][-1]]  # the last version holds every unit of the one source file
     report = {}
     total_bad = 0
     for act in corpus['acts']:
-        for which in ('first', 'last'):
-            v = act['versions'][0] if which == 'first' else act['versions'][-1]
+        seen = set()
+        for v in act['versions']:
+            if v['source_url'] in seen:
+                continue  # Constitution versions share one source file; check its first and last
+            seen.add(v['source_url'])
             fid = re.search(r'/d/([\w-]+)/', v['source_url']).group(1)
             hay = pdftext(fid)
-            hay_ns = hay.replace(' ', '')
+            hay_ns = re.sub(r'[ -]', '', hay)  # pdftotext drops a hyphen at a line end (out-patient)
             paras = bad = 0
             misses = []
             for k, u in sorted(v['units'].items()):
@@ -54,7 +81,7 @@ def main() -> None:
                     paras += 1
                     n = norm(line)
                     # pdftotext may split words differently around line ends: compare without spaces as the fallback
-                    if n not in hay and n.replace(' ', '') not in hay_ns:
+                    if not found(n, hay, hay_ns):
                         bad += 1
                         misses.append(f'{k}: {n[:160]}')
             report[f'{act["slug"]}@{v["from"]}'] = {'paragraphs': paras, 'not_found': bad, 'examples': misses[:15]}

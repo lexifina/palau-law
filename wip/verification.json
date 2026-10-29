@@ -1,98 +1,73 @@
 {
- "constitution@1981-01-01": {
-  "paragraphs": 184,
-  "not_found": 8,
-  "examples": [
-   "art-04-sec-05: Every person shall be equal under the law and shall be entitled to equal protection. The government shall take no action to discriminate against any person on t",
-   "art-04-sec-07: A person accused of a criminal offense shall be presumed innocent until proven guilty beyond a reasonable doubt and shall enjoy the right to be informed of the ",
-   "art-09-sec-14: The Olbiil Era Kelulau may enact no law except by bill. Each house of the Olbiil Era Kelulau shall establish a procedure for the enactment of bills into law. No",
-   "art-10-sec-07: The Judicial Nominating Commission shall consist of seven (7) members, one of whom shall be the Chief Justice of the Supreme Court who shall act as Chairman. Th",
-   "art-10-sec-12: The Chief Justice of the Supreme Court shall be the administrative head of the unified judicial system. He may assign judges from one geographical department or",
-   "art-12-sec-03: (b) The chief executive of each state shall submit, with the assistance of the national government, an annual budget to the state legislature for consideration ",
-   "art-13-sec-06: Harmful substances such as nuclear, chemical, gas or biological weapons intended for use in warfare, nuclear power plants, and waste materials therefrom, shall ",
-   "art-15-sec-13: Ngchesar Tobi Sonsorol Ngiwal"
-  ]
- },
  "constitution@2020-11-17": {
   "paragraphs": 254,
-  "not_found": 9,
+  "not_found": 1,
   "examples": [
-   "amend-26: (a) The Republic of Palau shall have exclusive ownership and shall exercise its sovereign rights to conserve, develop, exploit, explore, and manage at a sustain",
-   "art-04-sec-05: Every person shall be equal under the law and shall be entitled to equal protection. The government shall take no action to discriminate against any person on t",
-   "art-04-sec-07: A person accused of a criminal offense shall be presumed innocent until proven guilty beyond a reasonable doubt and shall enjoy the right to be informed of the ",
-   "art-09-sec-14: The Olbiil Era Kelulau may enact no law except by bill. Each house of the Olbiil Era Kelulau shall establish a procedure for the enactment of bills into law. No",
-   "art-10-sec-07: The Judicial Nominating Commission shall consist of seven (7) members, one of whom shall be the Chief Justice of the Supreme Court who shall act as Chairman. Th",
-   "art-10-sec-12: The Chief Justice of the Supreme Court shall be the administrative head of the unified judicial system. He may assign judges from one geographical department or",
-   "art-12-sec-03: (b) The chief executive of each state shall submit, with the assistance of the national government, an annual budget to the state legislature for consideration ",
-   "art-13-sec-06: Harmful substances such as nuclear, chemical, gas or biological weapons intended for use in warfare, nuclear power plants, and waste materials therefrom, shall ",
    "art-15-sec-13: Ngchesar Tobi Sonsorol Ngiwal"
   ]
  },
  "title-17-penal-code@1994-09-30": {
   "paragraphs": 425,
-  "not_found": 18,
+  "not_found": 0,
+  "examples": []
+ },
+ "title-17-penal-code@2021-05-14": {
+  "paragraphs": 4157,
+  "not_found": 1,
   "examples": [
-   "s-0106: Children under the age of 10 years are conclusively presumed to be incapable of committing any crime. Children between the ages of 10 and 14 years are also conc",
-   "s-0107: No person shall be prosecuted, tried or punished for any crime, except murder in the first or second degree, unless the prosecution is commenced within three ye",
-   "s-1203: Every person who is drunk and disorderly on any street, road, or other public place from the voluntary use of intoxicating liquor shall be guilty of drunken and",
-   "s-1205: (b) When the person complained of is brought before the court, the testimony produced on both sides shall be heard if the charge is denied. If it appears that t",
-   "s-3003: Every person who, having any responsibility for disposition of any food commodity donated under any program of the United States government or the Republic gove",
-   "s-3203: Any person who has been convicted of or entered a plea of guilty to any criminal offense in any court of the Republic, or in the Trust Territory High Court, Tri",
-   "s-3302: (b) The strict control and restriction on the use, possession, manufacture, distribution and importation of firearms and ammunition is designed to assure the pu",
-   "s-3303: (f) \"Law Enforcement Officer\" means a sheriff, police officer, customs or immigration officer or any other municipal entity whose duty it is to preserve the pea",
-   "s-3306: (a) Any person who knowingly shall import, possess, use, manufacture or have in his custody or control, any firearm shall be guilty of a felony and upon convict",
-   "s-3307: (b) Members of the Armed Forces lawfully in the Republic may possess firearms and ammunition only in those areas certified by the President.",
-   "s-3403: (d) persons in the armed forces of the United States, whenever such persons are engaged on official duty except to the extent that particular provisions of this",
-   "s-3405: (g) Any person suffering from a physical or mental defect, condition, illness or impairment which would make him ineligible for an identification card pursuant ",
-   "s-3406: (a) No person shall purchase, possess or use a firearm, dangerous device, or ammunition unless he is the holder of an identification card issued pursuant to thi",
-   "s-3414: (b) No person shall accept any firearms for repair unless he is shown an identification card evidencing eligibility of the holder to possess and use a firearm o",
-   "s-3418: (b) Any person proposing to manufacture or deal at wholesale in firearms, dangerous devices or ammunition, which person is not the holder of a dealer's license,"
+   "s-3348: (a) Where the Attorney General has listed a person, group or entity under 17 PNC section 3344, it shall make all reasonable efforts to provide the person, group"
   ]
+ },
+ "title-17-penal-code@2021-05-26": {
+  "paragraphs": 4157,
+  "not_found": 0,
+  "examples": []
+ },
+ "title-17-penal-code@2022-06-02": {
+  "paragraphs": 4157,
+  "not_found": 0,
+  "examples": []
+ },
+ "title-17-penal-code@2023-04-25": {
+  "paragraphs": 4230,
+  "not_found": 0,
+  "examples": []
  },
  "title-17-penal-code@2026-09-30": {
   "paragraphs": 4297,
-  "not_found": 91,
+  "not_found": 1,
   "examples": [
-   "s-0107: (d) An offense is committed either when every element occurs, or, if a legislative purpose to prohibit a continuing course of conduct plainly appears, at the ti",
-   "s-0108: (b) Except as provided in subsection (c) of this section, a defendant shall not be subject to separate trials for multiple offenses based on the same conduct or",
-   "s-0109: (4) The former prosecution was improperly terminated. Except as provided in this subsection, there is an improper termination of a prosecution if the terminatio",
-   "s-0113: (7) \"person,\" \"he,\" \"she,\" \"him,\" \"her,\" \"actor,\" and \"defendant\" include any natural person, including any natural person whose identity can be established by ",
-   "s-0231: (c) Evidence of nonself-induced or pathological intoxication of the defendant shall be admissible to prove or negate the conduct alleged or the state of mind su",
-   "s-0505: (b) Upon suspension of further proceedings in the prosecution, the court shall appoint a qualified psychiatrist or psychologist to examine and report upon the p",
-   "s-0507: (b) If the court is satisfied that the defendant may be released on conditions without danger to the defendant or to the person or property of others, the court",
-   "s-0511: (a) At the hearing pursuant to 17 PNC Section 506 or upon the trial, the examiner(s) who reported pursuant to 17 PNC Section 505 may be called as witnesses by t",
-   "s-0512: (1) The court shall appoint a qualified psychiatrist or psychologist to examine and report upon the physical and mental condition of the defendant. The examiner",
-   "s-0513: (c) Upon application to the court by either the Minister of Health and Human Services or the person committed, the court shall complete the hearing process and ",
-   "s-0514: (a) Any person granted conditional release pursuant to this chapter shall continue to receive mental health or other treatment and care deemed appropriate by th",
-   "s-0514: (c) Any person granted conditional release pursuant to this chapter may apply to the court ordering the conditional release for discharge from, or modification ",
-   "s-0601: (f) Upon meeting the requirements set forth above, such person may apply to the court for an order to expunge from all official records, other than the non-publ",
-   "s-0617: (i) If the interests of the people of the Republic will be served, the court, at the time of sentencing, may order any non-citizen who is convicted of a felony,",
-   "s-0638: (a) Upon the filing of a motion to revoke probation or a motion to enlarge the conditions of probation, the period of probation shall be tolled pending the hear"
+   "s-0513: (c) Upon application to the court by either the Minister of Health and Human Services or the person committed, the court shall complete the hearing process and "
   ]
  },
  "title-01-general-provisions@1994-09-30": {
   "paragraphs": 124,
-  "not_found": 3,
-  "examples": [
-   "s-0303: The rules of the common law, as expressed in the restatements of the law approved by the American Law Institute and, to the extent not so expressed, as generall",
-   "s-0304: All laws, regulations, orders and ordinances heretofore enacted, issued, made or promulgated by Spanish, German, or Japanese authority which are still in force ",
-   "s-0412: No soldier shall in time of peace be quartered in any house without the consent of the owner, nor in time of war but in a manner to be prescribed by law."
-  ]
+  "not_found": 0,
+  "examples": []
+ },
+ "title-01-general-provisions@2021-05-14": {
+  "paragraphs": 234,
+  "not_found": 0,
+  "examples": []
+ },
+ "title-01-general-provisions@2021-05-26": {
+  "paragraphs": 234,
+  "not_found": 0,
+  "examples": []
+ },
+ "title-01-general-provisions@2022-06-02": {
+  "paragraphs": 234,
+  "not_found": 0,
+  "examples": []
+ },
+ "title-01-general-provisions@2023-04-25": {
+  "paragraphs": 234,
+  "not_found": 0,
+  "examples": []
  },
  "title-01-general-provisions@2026-09-30": {
   "paragraphs": 234,
-  "not_found": 10,
-  "examples": [
-   "s-0103: (1) Constitution of the Republic of Palau (2) The Republic of Palau National Code (A) Title 1 General Provisions (B) Title 2 The Executive (C) Title 3 The Olbii",
-   "s-0104: The inclusion of the documents and material other than the actual titles of the Code, such as the documents relating to the Government of the Trust Territory of",
-   "s-0107: When a limitation or period of time prescribed in any existing law for acquiring a right or barring a remedy, or for any other purpose, has begun to run before ",
-   "s-0111: (b) The laws contained in any current supplements or pocket parts to this Code, printed and published under authority of the Palau National Code Commission, con",
-   "s-0303: The rules of the common law, as expressed in the restatements of the law approved by the American Law Institute and, to the extent not so expressed, as generall",
-   "s-0404: No person shall be deprived of life, liberty, or property without due process of law; nor shall private property be taken for public use without just compensati",
-   "s-0501: The flag of the Republic shall be a golden-yellow full moon slightly off-centered on a field of sky-blue. The width of the flag shall bear the ratio to its leng",
-   "s-0502: The flag may be reproduced for unofficial purposes with different dimensions and appropriate devices for attaching the flag to a mast, staff, or other means of ",
-   "s-0901: (3) \"governing body\" means any government entity created under the Constitution of the Republic, by treaty, by law, by regulation, or by executive order, includ",
-   "s-0901: (4) \"notice\" means to publish the time and place where a governing body will meet along with a brief description of the matter that is to be discussed or the fi"
-  ]
+  "not_found": 0,
+  "examples": []
  }
 }
