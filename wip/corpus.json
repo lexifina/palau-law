@@ -24189,7 +24189,10 @@
   "PNC titles: RPPL keys are zero-padded (rppl-09-021 for RPPL 9-21) so that, with no enactment dates in the source, the builder orders laws named together by their number (Olbiil Era Kelulau, then law).",
   "PNC titles: Code Commission annotations (Sources, Notes, Cross-references, Supreme Court Cases, Commission Comments) and the chapter tables of contents are not part of the section files.",
   "Source choice: PacLII and AustLII were not used (AustLII terms forbid scraping and dataset use). Every text comes from the Palau Code Commission's own publication channel.",
-  "Language: the Constitution is official in English and Palauan; the English version is built (the Code Commission publishes both)."
+  "Language: the Constitution is official in English and Palauan; the English version is built (the Code Commission publishes both).",
+  "17 PNC § 4727 (chemical weapons schedule): the 15th Supplement's text layer renders the ≤ sign as '#', the 16th as nothing; the difference is committed as unexplained on 2021-05-26 and is a typesetting artefact, not a change in the law.",
+  "Word check (verify.py): every paragraph of every PNC edition and of the current Constitution was found in an independent pdftotext extraction of the same PDF, except 3 explained by layout (Constitution art. XV § 13 table; 17 PNC § 3348 and § 513 words broken across a page foot); results in verification.json.",
+  "Paragraphs in PNC sections are split only where an enumerator such as (a), (1), (A) or (iv) follows the end of a clause, because the typeset and the Word-exported editions space paragraphs differently; unnumbered paragraphs inside one section are joined on one line."
  ],
  "ai_use": [
   "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch.py, layout.py and parse.py and found the sources. No model wrote, summarised or corrected any legal text; every provision is extracted by code from the publisher's PDF text layer."
