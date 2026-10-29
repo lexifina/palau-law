@@ -1,0 +1,131 @@
+{
+ "country": "PW",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "ROP Const.",
+   "title": "Constitution of the Republic of Palau",
+   "url": "https://palaulaw.gov.pw/",
+   "versions": [
+    {
+     "from": "1981-01-01",
+     "units": 113,
+     "source_url": "https://drive.google.com/file/d/1hPQSUW9yNyZhFzwSgdRUQTeVRhkE1W-T/view",
+     "sha256": "97ad525ca95b531b5502b2075d186fb85cb0559cbcd3da170b9a707b141f8f61"
+    },
+    {
+     "from": "1992-11-04",
+     "units": 114,
+     "source_url": "https://drive.google.com/file/d/1hPQSUW9yNyZhFzwSgdRUQTeVRhkE1W-T/view",
+     "sha256": "97ad525ca95b531b5502b2075d186fb85cb0559cbcd3da170b9a707b141f8f61"
+    },
+    {
+     "from": "2004-11-06",
+     "units": 118,
+     "source_url": "https://drive.google.com/file/d/1hPQSUW9yNyZhFzwSgdRUQTeVRhkE1W-T/view",
+     "sha256": "97ad525ca95b531b5502b2075d186fb85cb0559cbcd3da170b9a707b141f8f61"
+    },
+    {
+     "from": "2008-11-19",
+     "units": 139,
+     "source_url": "https://drive.google.com/file/d/1hPQSUW9yNyZhFzwSgdRUQTeVRhkE1W-T/view",
+     "sha256": "97ad525ca95b531b5502b2075d186fb85cb0559cbcd3da170b9a707b141f8f61"
+    },
+    {
+     "from": "2020-11-17",
+     "units": 140,
+     "source_url": "https://drive.google.com/file/d/1hPQSUW9yNyZhFzwSgdRUQTeVRhkE1W-T/view",
+     "sha256": "97ad525ca95b531b5502b2075d186fb85cb0559cbcd3da170b9a707b141f8f61"
+    }
+   ]
+  },
+  {
+   "slug": "title-17-penal-code",
+   "short": "17 PNC",
+   "title": "Palau National Code, Title 17: Penal Code",
+   "url": "https://palaulaw.gov.pw/",
+   "versions": [
+    {
+     "from": "1994-09-30",
+     "units": 131,
+     "source_url": "https://drive.google.com/file/d/1XFCSWJFMZGNtFAMML-H-Ys61Y_KorkR-/view",
+     "sha256": "0dda15f62fd27557e55ebd2c0069503bf4fd21b97a616a5a7fb1d141098aa34f"
+    },
+    {
+     "from": "2021-05-14",
+     "units": 613,
+     "source_url": "https://drive.google.com/file/d/1kElyRB91E4Ms4HClYNX9vMJ5O5oO4Gq7/view",
+     "sha256": "8d327e0cc6940022f4bf2561b062dc962fe0a452b8d2b6be1357794d0b0e3eef"
+    },
+    {
+     "from": "2021-05-26",
+     "units": 613,
+     "source_url": "https://drive.google.com/file/d/1WT8yeDl-rDAZtzocj594Y_wMGjbRCBS1/view",
+     "sha256": "13a0b8ec2021c63c3ac474cc12dd4296f8bb065216bc900fd7bb3c85b0b9f9f2"
+    },
+    {
+     "from": "2022-06-02",
+     "units": 613,
+     "source_url": "https://drive.google.com/file/d/1ZqVS5wp7EbDRHmq-I0Z38qjY3QI2EqSY/view",
+     "sha256": "f9d90e8cd59e2dac4931c4c90ffc260ae81d791a0c160b4ed2cc5784824e1de7"
+    },
+    {
+     "from": "2023-04-25",
+     "units": 626,
+     "source_url": "https://drive.google.com/file/d/1GD82qRoBHpsYNnSkAWjoYoheuOhMM6n3/view",
+     "sha256": "eda5cb152ec762b3d335f528b0522ea768d4fa69da6113104192433d1348c926"
+    },
+    {
+     "from": "2026-09-30",
+     "units": 627,
+     "source_url": "https://drive.google.com/file/d/1OIqNRsJaSyIgGSh9BAplTW3KYJ206PSM/view",
+     "sha256": "e19abb2db99fbfd9bbd1ee430c1320801e93b4a81d619ea18fdb59605cd7f19c"
+    }
+   ]
+  },
+  {
+   "slug": "title-01-general-provisions",
+   "short": "1 PNC",
+   "title": "Palau National Code, Title 1: General Provisions",
+   "url": "https://palaulaw.gov.pw/",
+   "versions": [
+    {
+     "from": "1994-09-30",
+     "units": 40,
+     "source_url": "https://drive.google.com/file/d/1U1psjH-QaYFjYRXXtQalwh81nBktS3FO/view",
+     "sha256": "536fb3bcac3e13bab0eb40520084fbd7dc92f3baf54b9797e723c77feb2bd323"
+    },
+    {
+     "from": "2021-05-14",
+     "units": 64,
+     "source_url": "https://drive.google.com/file/d/1-YNunEwcd3eYRdNMmHnGq95fsXgqY2hM/view",
+     "sha256": "c0902f307cc983139b29df5b381aeeda73d62c861180d47e33fdfbc0c94e9177"
+    },
+    {
+     "from": "2021-05-26",
+     "units": 64,
+     "source_url": "https://drive.google.com/file/d/1q_QLAXWLIDxdUzC63gSADnQRDyv78Dzh/view",
+     "sha256": "bc99c03e319024149f5c4871a356c6dc0e241113e7121d7fec40a0159da3db87"
+    },
+    {
+     "from": "2022-06-02",
+     "units": 64,
+     "source_url": "https://drive.google.com/file/d/1iEw3v4z43f4de3qt-ISa9c4Ty_PRuhPt/view",
+     "sha256": "5bd72f83aa384f9bb707c765310db1b08a062bb2a2a655a1f0b81f0132f83dbb"
+    },
+    {
+     "from": "2023-04-25",
+     "units": 64,
+     "source_url": "https://drive.google.com/file/d/1sxaTU4xG23LJ0jfwHAVPdqr-5sCnud7h/view",
+     "sha256": "8e2734d17f7b410bec5abd7d954df8d69b7d670cc855dccea2f9f788b334c76a"
+    },
+    {
+     "from": "2026-09-30",
+     "units": 64,
+     "source_url": "https://drive.google.com/file/d/1Qotr741-k3WgN-jDCJ7bsbaLQ2-io-PB/view",
+     "sha256": "431c39242b623f8110b15670cb2491c9b4908dd3c6ee98fc79282586990ac0d1"
+    }
+   ]
+  }
+ ]
+}
