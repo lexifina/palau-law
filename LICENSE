@@ -1,0 +1,29 @@
+The legal texts come from the Palau Code Commission and its Publication And Law Access Unit ("PALAU Office"),
+which compile and publish the laws of the Republic of Palau (1 PNC § 1002):
+
+  Constitution of the Republic of Palau (current as of 05/13/2026) and the Palau National Code Annotated (current
+  titles as of 09/30/2026; First Edition 1994; 15th-18th Supplements), PDFs on the Code Commission's public Google
+  Drive, https://drive.google.com/drive/folders/1o9b7uIAaNl7qj_yfILpbgstBp6nW90Ox, linked from
+  https://palaulaw.gov.pw/ (retrieved 2026-10-29).
+
+The publisher's notices:
+
+  "Copyright (c) Republic of Palau, Publication And Law Access Unit" (PNC front matter).
+
+  "The Palau Legal Information Access website is a project of the Republic of Palau Code Commission, established to
+  provide free, open, and reliable access to the laws of the Republic of Palau." ... "While every effort is made to
+  ensure accuracy, the documents provided on this platform are for informational purposes only and do not
+  constitute official legal advice." (palaulaw.gov.pw, About)
+
+No licence to republish is given. This repository is therefore private; whether and how it may be published is the
+owner's decision.
+
+Changes made by Lexifina: each edition was converted from its PDF text layer to one Markdown file per section,
+article or amendment, one paragraph per line; spacing, quotes and dashes were normalised; running heads, page feet,
+annotations, tables of contents and Division, Chapter and Subchapter headings were left out; and the versions were
+arranged as git commits credited to the laws the Code Commission's notes name for each change. The wording of the
+law was not changed. The Palau Code Commission does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
