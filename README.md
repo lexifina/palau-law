@@ -1,5 +1,7 @@
 # Palau: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Palau's national law, which global-law reads at `palau/national/acts/`.
+
 The law of the Republic of Palau as a git history: one file per section or article, one commit per law on the day its change took effect (or, for the Palau National Code, the day the Code Commission's edition first shows it), and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a section; `tools/on.py` gives the text on any day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `pw/`. Every text comes from the **Palau Code Commission**, the body that "shall compile, revise, codify and publish" the laws of Palau (1 PNC § 1002), and its Publication And Law Access Unit (the "PALAU Office"): the Constitution and the *Palau National Code Annotated* (PNCA) as PDFs with a text layer, from the Code Commission's public Google Drive linked from its site [palaulaw.gov.pw](https://palaulaw.gov.pw/).
