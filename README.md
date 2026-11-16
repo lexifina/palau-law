@@ -58,6 +58,7 @@ The Constitution's first commit is credited to the Constitution and each amendme
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 17 versions of 3 acts, 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
 - Every paragraph of every Code edition and of the current Constitution is searched for, word for word, in a second, independent text extraction of the same PDF: of 22,971 paragraphs, 3 are not found, all explained by layout (a table in art. XV § 13 and two words broken across a page foot).
 - It also checks git's own rules: no merge commits, no commit date that goes backwards, nothing dated after the build, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -77,6 +78,10 @@ The Constitution's first commit is credited to the Constitution and each amendme
 See [`LICENSE`](LICENSE). The texts come from the Code Commission, which publishes them for free public access ("Copyright © Republic of Palau, Publication And Law Access Unit"); no licence to republish is given. Lexifina's arrangement, commit messages, tables and tools are dedicated to the public domain under CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
