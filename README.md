@@ -1,5 +1,9 @@
 # Palau: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Palauan law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
 
 The law of Palau as a git history: one file per section or article, one commit per law on the day its change took effect (for the Palau National Code, the day of the Code Commission's edition that first shows it), and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a section; picking a date gives the text in force that day.
 
